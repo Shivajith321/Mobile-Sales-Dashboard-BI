@@ -27,3 +27,4 @@ Key Visuals: KPI cards, sales charts, regional analysis, and interactive filters
 Business Impact & Insights: Supports data-driven decisions, improves sales analysis, and identifies top-performing products.
 
 6.ScreenShot of Dashboard 
+https://github.com/Shivajith321/Mobile-Sales-Dashboard-BI/blob/main/Snapshot%20of%20Mobile%20Sales%20Dashboard.png
